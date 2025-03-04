@@ -9,7 +9,7 @@
 
 ---
 
-## Contributions
+## My Individual Contributions:
 
 - **Neural Networks (NN)**
 - **Naive Bayes Classifier**
