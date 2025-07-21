@@ -1,20 +1,71 @@
-# Predictive Analytics
+# Mutual Funds and ETFs: Machine Learning Analysis  
 
-**Submitted to Western Sydney University**  
-**Professor:** Dr Rosalind Wang  
-**Tutor:** Vishal Patel
-
-**Data Source:** [Mutual Funds and ETFs Dataset](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs)
+**Course Project: Predictive Analytics**  
+**Author:** Midhun Shyam (Team Lead, 22058122)  
+**Date:** July 2025  
 
 ---
 
-## My Individual Contributions
+## Overview  
 
-- **Neural Networks (NN)**
-- **Naive Bayes Classifier**
-- **KNN Imputation**
-- **Database Schema**
+This repository contains a machine learning analysis of the [Mutual Funds and ETFs Dataset](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs) from Kaggle.  
+
+The project focuses on financial data preprocessing, modeling, and imputation to predict and classify fund characteristics. It involves both supervised and unsupervised learning techniques, including neural networks, Bayesian classifiers, and data imputation strategies for handling missing values.
 
 ---
 
-This project applies various predictive analytics techniques to the mutual funds and ETFs dataset.
+## Repository Structure  
+
+├── PA.ipynb ← Main Jupyter Notebook (Predictive Analytics Project)
+
+├── data/ ← **Dataset:** [Mutual Funds and ETFs Dataset](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs) 
+
+- **Description:** Contains detailed information on global mutual funds and exchange-traded funds (ETFs), including financial performance, asset allocation, and fund classifications.
+
+
+## 🔧 Techniques Used  
+
+- **Neural Networks (NN):**  
+  - Built and trained a feed-forward neural network for classification tasks related to fund category prediction.  
+- **Naive Bayes Classifier:**  
+  - Implemented Naive Bayes for probabilistic classification based on financial metrics.  
+- **KNN Imputation:**  
+  - Applied K-Nearest Neighbors imputation to handle missing data in the dataset efficiently.  
+- **Database Schema Design:**  
+  - Designed a normalized relational database schema to structure mutual funds and ETFs data for further analysis and storage.  
+
+---
+
+## Individual Contributions  
+
+While the project was a team submission, the following tasks were **individually completed by Midhun Shyam**:
+
+- ✅ **End-to-end implementation of Neural Networks (NN)**  
+- ✅ **Development of the Naive Bayes Classifier**  
+- ✅ **Complete KNN Imputation pipeline for missing values**  
+- ✅ **Database schema design and documentation**  
+- ✅ **Data cleaning, preprocessing, and feature engineering**  
+- ✅ **Visualization and model evaluation**
+
+*Note:* Credits were shared with the team for collaborative spirit, but the above contributions were fully executed by the author.
+
+---
+
+## Getting Started  
+
+1. **Clone this repository**  
+   ```bash
+   git clone https://github.com/midhunshyam/MutualFunds-ETFs-ML.git
+   cd MutualFunds-ETFs-ML
+
+## Key Outcomes
+
+- Successful classification of funds into categories using both NN and Naive Bayes classifiers.
+- Efficient imputation of missing financial data using KNN imputation with minimal bias introduction.
+- A scalable database schema suitable for storing mutual fund and ETF metadata and financial performance metrics.
+
+---
+
+## License
+
+This project is released under the MIT License. Feel free to use, modify, and distribute with attribution.
