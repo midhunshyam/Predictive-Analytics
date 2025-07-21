@@ -4,7 +4,7 @@
 **Author:** Midhun Shyam (Team Lead, 22058122)  
 **Date:** July 2025  
 
----
+
 
 ## Overview  
 
@@ -12,18 +12,18 @@ This repository contains a machine learning analysis of the [Mutual Funds and ET
 
 The project focuses on financial data preprocessing, modeling, and imputation to predict and classify fund characteristics. It involves both supervised and unsupervised learning techniques, including neural networks, Bayesian classifiers, and data imputation strategies for handling missing values.
 
----
+
 
 ## Repository Structure  
 
 ├── PA.ipynb ← Main Jupyter Notebook (Predictive Analytics Project)
 
-├── data/ ← **Dataset:** [Mutual Funds and ETFs Dataset](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs) 
+├── **Dataset:** [Mutual Funds and ETFs Dataset](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs) 
 
 - **Description:** Contains detailed information on global mutual funds and exchange-traded funds (ETFs), including financial performance, asset allocation, and fund classifications.
 
 
-## 🔧 Techniques Used  
+## Techniques Used  
 
 - **Neural Networks (NN):**  
   - Built and trained a feed-forward neural network for classification tasks related to fund category prediction.  
@@ -32,9 +32,8 @@ The project focuses on financial data preprocessing, modeling, and imputation to
 - **KNN Imputation:**  
   - Applied K-Nearest Neighbors imputation to handle missing data in the dataset efficiently.  
 - **Database Schema Design:**  
-  - Designed a normalized relational database schema to structure mutual funds and ETFs data for further analysis and storage.  
-
----
+  - Designed a normalized relational database schema to structure mutual funds and ETFs data for further analysis and storage.
+  - 
 
 ## Individual Contributions  
 
@@ -49,7 +48,6 @@ While the project was a team submission, the following tasks were **individually
 
 *Note:* Credits were shared with the team for collaborative spirit, but the above contributions were fully executed by the author.
 
----
 
 ## Getting Started  
 
