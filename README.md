@@ -54,9 +54,3 @@ While the project was a team submission, the following tasks were **individually
 - Successful classification of funds into categories using both NN and Naive Bayes classifiers.
 - Efficient imputation of missing financial data using KNN imputation with minimal bias introduction.
 - A scalable database schema suitable for storing mutual fund and ETF metadata and financial performance metrics.
-
----
-
-## License
-
-This project is released under the MIT License. Feel free to use, modify, and distribute with attribution.
