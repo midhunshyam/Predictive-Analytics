@@ -18,7 +18,8 @@ The project focuses on financial data preprocessing, modeling, and imputation to
 
 ├── PA.ipynb ← Main Jupyter Notebook (Predictive Analytics Project)
 
-├── **Dataset:** [Mutual Funds and ETFs Dataset](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs) 
+
+**Dataset:** [Mutual Funds and ETFs Dataset](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs) 
 
 - **Description:** Contains detailed information on global mutual funds and exchange-traded funds (ETFs), including financial performance, asset allocation, and fund classifications.
 
@@ -33,7 +34,7 @@ The project focuses on financial data preprocessing, modeling, and imputation to
   - Applied K-Nearest Neighbors imputation to handle missing data in the dataset efficiently.  
 - **Database Schema Design:**  
   - Designed a normalized relational database schema to structure mutual funds and ETFs data for further analysis and storage.
-  - 
+  
 
 ## Individual Contributions  
 
