@@ -49,14 +49,6 @@ While the project was a team submission, the following tasks were **individually
 
 *Note:* Credits were shared with the team for collaborative spirit, but the above contributions were fully executed by the author.
 
-
-## Getting Started  
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/midhunshyam/MutualFunds-ETFs-ML.git
-   cd MutualFunds-ETFs-ML
-
 ## Key Outcomes
 
 - Successful classification of funds into categories using both NN and Naive Bayes classifiers.
