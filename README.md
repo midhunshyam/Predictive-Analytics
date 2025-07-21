@@ -16,7 +16,7 @@ The project focuses on financial data preprocessing, modeling, and imputation to
 
 ## Repository Structure  
 
-├── PA.ipynb ← Main Jupyter Notebook (Predictive Analytics Project)
+├── _**PA.ipynb**_ ← Main Jupyter Notebook (Predictive Analytics Project)
 
 
 **Dataset:** [Mutual Funds and ETFs Dataset](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs) 
