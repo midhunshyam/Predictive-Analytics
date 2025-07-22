@@ -1,4 +1,4 @@
-# Mutual Funds and ETFs: Machine Learning Analysis  
+# Mutual Funds and ETFs: Predictive Analytics  
 
 **Course Project: Predictive Analytics**  
 **Author:** Midhun Shyam (Team Lead, 22058122)  
