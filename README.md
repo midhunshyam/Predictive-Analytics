@@ -31,7 +31,7 @@ The project focuses on financial data preprocessing, modeling, and imputation to
 
 ## Individual Contributions  
 
-While the project was a team collaboration, the following tasks were **individually completed** by the author:
+While the project was a team collaboration, the following tasks were **individually completed**:
 
 - **End-to-end implementation of Neural Networks (NN)**  
 - **Development of the Naive Bayes Classifier**  
