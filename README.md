@@ -4,12 +4,7 @@ This repository contains a machine learning analysis of the [Mutual Funds and ET
 
 The project focuses on financial data preprocessing, modeling, and imputation to predict and classify fund characteristics. It involves both supervised and unsupervised learning techniques, including neural networks, Bayesian classifiers, and data imputation strategies for handling missing values.
 
-
-
-## Directory Structure
-
-- **PA.ipynb**  
-  Main Jupyter Notebook for the Predictive Analytics Project. Contains all methodologies, analysis code, and results in a single, self-contained notebook with detailed information on global mutual funds and exchange-traded funds (ETFs), including financial performance, asset allocation, and fund classifications.
+The `PA.ipynb` is main Jupyter Notebook for this project. Contains all methodologies, analysis code, and results in a single, self-contained notebook with detailed information on global mutual funds and exchange-traded funds (ETFs), including financial performance, asset allocation, and fund classifications.
 
 
 ## Techniques Used  
