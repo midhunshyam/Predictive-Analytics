@@ -9,12 +9,7 @@ The project focuses on financial data preprocessing, modeling, and imputation to
 ## Directory Structure
 
 - **PA.ipynb**  
-  Main Jupyter Notebook for the Predictive Analytics Project. Contains all methodologies, analysis code, and results in a single, self-contained notebook.
-
-
-**Dataset:** [Mutual Funds and ETFs Dataset](https://www.kaggle.com/datasets/stefanoleone992/mutual-funds-and-etfs) 
-
-- **Description:** Contains detailed information on global mutual funds and exchange-traded funds (ETFs), including financial performance, asset allocation, and fund classifications.
+  Main Jupyter Notebook for the Predictive Analytics Project. Contains all methodologies, analysis code, and results in a single, self-contained notebook with detailed information on global mutual funds and exchange-traded funds (ETFs), including financial performance, asset allocation, and fund classifications.
 
 
 ## Techniques Used  
