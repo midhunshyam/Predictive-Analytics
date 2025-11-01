@@ -21,7 +21,7 @@ The `PA.ipynb` is main Jupyter Notebook for this project. Contains all methodolo
 
 ## Individual Contributions  
 
-While the project was a team collaboration, the following tasks were individually completed:
+While the project was a team collaboration, the following tasks were my contributions:
 
 - **End-to-end implementation of Neural Networks (NN)**  
 - **Development of the Naive Bayes Classifier**  
