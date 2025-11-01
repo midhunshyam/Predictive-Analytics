@@ -39,14 +39,13 @@ The project focuses on financial data preprocessing, modeling, and imputation to
 
 ## Individual Contributions  
 
-While the project was a team submission, the following tasks were **individually completed**:
+While the project was a team collaboration, the following tasks were **individually completed** by the author:
 
 - **End-to-end implementation of Neural Networks (NN)**  
 - **Development of the Naive Bayes Classifier**  
 - **Complete KNN Imputation pipeline for missing values**  
 - **Database schema design and documentation**  
 
-*Note:* Credits were shared with the team for collaborative spirit, but the above contributions were fully executed by the author.
 
 ## Key Outcomes
 
