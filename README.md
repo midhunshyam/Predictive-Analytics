@@ -9,15 +9,19 @@ The `PA.ipynb` is main Jupyter Notebook for this project. Contains all methodolo
 
 ## Techniques Used  
 
-- **Neural Networks (NN):**  
-  - Built and trained a feed-forward neural network for classification tasks related to fund category prediction.  
-- **Naive Bayes Classifier:**  
-  - Implemented Naive Bayes for probabilistic classification based on financial metrics.  
-- **KNN Imputation:**  
-  - Applied K-Nearest Neighbors imputation to handle missing data in the dataset efficiently.  
-- **Database Schema Design:**  
-  - Designed a normalized relational database schema to structure mutual funds and ETFs data for further analysis and storage.
-  
+
+Neural Networks (NN)
+A feed-forward neural network was designed and trained to predict fund categories. The algorithm learned from historical financial patterns, enabling it to recognise complex, non-linear relationships between variables that simpler models might overlook. This helped improve the accuracy of fund classification.
+
+Naïve Bayes Classifier
+A probabilistic model based on Bayes’ theorem was implemented to estimate the likelihood that a fund belonged to a given category. By calculating probabilities from the financial metrics, this approach provided a fast, interpretable baseline for comparison with more complex models.
+
+K-Nearest Neighbours (KNN) Imputation
+To address missing values within the dataset, the KNN algorithm was applied to estimate absent data points by referencing the most similar records. This preserved the integrity of the dataset without introducing significant bias, ensuring consistent input for subsequent analysis.
+
+Database Schema Design
+A normalised relational database schema was created to organise and store mutual fund and ETF data efficiently. This structured foundation supported seamless data retrieval and integration with the analytical models, ensuring scalability and reliability for future financial analyses.
+
 
 ## Individual Contributions  
 
