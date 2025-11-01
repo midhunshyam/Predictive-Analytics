@@ -1,6 +1,5 @@
 # Predictive Analytics: Mutual Funds and ETFs  
 
-**Course: Predictive Analytics**  
 **Author:** Midhun Shyam (Team Lead, 22058122)  
 **Date:** October 2024
 
