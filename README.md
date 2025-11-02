@@ -57,7 +57,7 @@ While the project was a team collaboration, the following tasks were my contribu
 - **Development of the Naive Bayes Classifier**  
 - **Complete KNN Imputation pipeline for missing values**  
 - **Database schema design and documentation**
-- **Overall review of each ML method performance and report writing**
+- **Overall review of each ML method and report writing**
 
 
 ## Key Outcomes
